@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_1762252b4035f306d7af0f2eaab17dc43e59df21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_bd93a6959567ffae91ca6c2670a494109322dd26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_963efd2c04a851737643f5b7b95a1203b03725b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be8e6e3a0c983699161b5a74b395bd45aedaecc3">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d47167b20ed3ee815785002cc12cd4ce984b0815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7c6e81a9b96c60a1a0318acbc9a65e12d1ef9899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_f9f367b7302057e0d5aba021483d48af8a4cfc4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_f38d0ddbb9ee36aa3b0e83425b980153c13235d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_ce04e93a2d13e82bcfd59efa7d6ed869a6c744bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_8a7458d20dfc96ad5ff3872411aa0204809c5969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_5566a6c09f6d7f424bba580f14263e5d0be2178d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32f997a15ba4e447a00472771b6b0b0adcefb643">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9e8fe48485ed3b46aa5f7abc3e50cc724db8c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Evgeny/Documents/College/Semestr2/AndroidAssignment1/Roster/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_79df735b5ea1ca06c29c64645e7f745f829ced42/classes.dex" />
+    </item>
+
+</items>

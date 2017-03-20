@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roster</string>
+
+    <string-array name="eyes">
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
